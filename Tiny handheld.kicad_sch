@@ -3589,7 +3589,7 @@
     (property "Value" "MOMENTARY-SWITCH-SPST-2-SMD-5.2MM" (id 1) (at 48.26 74.295 0)
       (effects (font (size 1.143 1.143)) hide)
     )
-    (property "Footprint" "" (id 2) (at 48.26 76.835 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_TL3305B" (id 2) (at 48.26 76.835 0)
       (effects (font (size 0.508 0.508)) hide)
     )
     (property "Datasheet" "" (id 3) (at 48.26 83.185 0)
@@ -3749,7 +3749,7 @@
       (reference "R12") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/ff7cddd3-0feb-4187-a60c-008a73ab2baa"
-      (reference "S1") (unit 1) (value "MOMENTARY-SWITCH-SPST-2-SMD-5.2MM") (footprint "")
+      (reference "S1") (unit 1) (value "MOMENTARY-SWITCH-SPST-2-SMD-5.2MM") (footprint "Button_Switch_SMD:SW_SPST_TL3305B")
     )
     (path "/2605f99e-3450-4ffc-961e-c01876e51427"
       (reference "S2") (unit 1) (value "JOYSTICK_MINI") (footprint "Button_Switch_SMD:5 way button (joystick)")
