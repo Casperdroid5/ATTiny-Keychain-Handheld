@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "ATTINY85-20MU")(type "Legacy")(uri "${KIPRJMOD}/Libraries/ATTINY85-20MU.lib")(options "")(descr ""))
-  (lib (name "KSSGK4B16-20")(type "Legacy")(uri "${KIPRJMOD}/Libraries/KSSGK4B16-20.lib")(options "")(descr ""))
-)
