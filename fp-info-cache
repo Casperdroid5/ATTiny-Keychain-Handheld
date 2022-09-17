@@ -1,4 +1,4 @@
-20387131268910992
+20388794674040895
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79442,6 +79442,13 @@ MOSFET (P-Channel)
 0
 3
 3
+SmacSYs
+SOT230P700X180-4N
+SOT230P700X180-4N
+Integrated Circuit
+0
+4
+4
 SmacSYs
 TS2596CM550RNG
 TS2596CM550 RNG-1
