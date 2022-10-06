@@ -1551,7 +1551,6 @@
     )
   )
 
-
   (junction (at 174.625 27.305) (diameter 0) (color 0 0 0 0)
     (uuid 005d97cf-7c72-4cf4-b2a8-41e92f2f89d0)
   )
@@ -2949,7 +2948,7 @@
     (property "Value" "ATtiny85-20P" (id 1) (at 149.225 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "USB-C-Power-tester:TYPE-C-31-M-17" (id 2) (at 151.765 61.595 0)
+    (property "Footprint" "SamacSys_Parts:DIP781W56P254L950H533Q8N" (id 2) (at 151.765 61.595 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf" (id 3) (at 164.465 57.785 0)
@@ -3779,7 +3778,7 @@
       (reference "S4") (unit 1) (value "JS202011SCQN") (footprint "Snapeda:SW_JS202011SCQN")
     )
     (path "/716dbfd6-a7fb-46e6-a1fd-155b10b4ba36"
-      (reference "U1") (unit 1) (value "ATtiny85-20P") (footprint "USB-C-Power-tester:TYPE-C-31-M-17")
+      (reference "U1") (unit 1) (value "ATtiny85-20P") (footprint "SamacSys_Parts:DIP781W56P254L950H533Q8N")
     )
     (path "/ce77d059-5afe-4faf-9ead-57b1b83e54ae"
       (reference "U2") (unit 1) (value "ATtiny85-20S") (footprint "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm")
