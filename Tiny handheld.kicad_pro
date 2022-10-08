@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.7,
-          "height": 2.7,
-          "width": 2.7
+          "drill": 0.0,
+          "height": 2.032,
+          "width": 1.8415
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -390,7 +390,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "../../../../Desktop/Tiny handheld.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
