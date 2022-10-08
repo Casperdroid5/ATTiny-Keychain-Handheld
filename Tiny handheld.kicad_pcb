@@ -311,7 +311,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a6bd3f2e-ee8e-404f-ad85-eb552c750c97)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e3170808-1c30-4d4e-9d6b-d9289d0a853c)
     )
@@ -7737,7 +7737,7 @@
       (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp b6977bbb-77a1-4386-86f7-a67b1e3730a0)
     )
-    (fp_text value "USB_C_Receptacle_USB2.0" (at 0 -5.5) (layer "F.Fab")
+    (fp_text value "USB_C_Receptacle_USB2.0" (at 0 -5.5) (layer "F.Fab") hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 9ba1790c-765a-4ad6-82a7-7a3e1526c51c)
     )
@@ -8047,7 +8047,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 9cc78229-6199-45bf-9244-6fa5a29a69e2)
     )
-    (fp_text value "47uF" (at 0 -1.85) (layer "B.Fab")
+    (fp_text value "47uF" (at 0 -1.85) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1a622ec5-c3fc-4937-89a9-ab4d6d75aa27)
     )
@@ -8337,7 +8337,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b70a9bf4-2259-407b-b821-7d6d32d870db)
     )
-    (fp_text value "470" (at 0 -1.82) (layer "B.Fab")
+    (fp_text value "470" (at 0 -1.82) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 503831e5-c0fa-45a1-9403-d3d4fed037df)
     )
@@ -8620,7 +8620,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 792af65b-02b1-438e-adaa-48d4ac52719e)
     )
-    (fp_text value "2.2uF 16V" (at 0 -1.85) (layer "B.Fab")
+    (fp_text value "2.2uF 16V" (at 0 -1.85) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a16f43b5-b464-45e0-b449-2cf3e0ac3a4a)
     )
@@ -8998,7 +8998,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 048a905f-92e4-48a6-8a35-f074bede9efe)
     )
-    (fp_text value "1uF 16V" (at 0 -2.032) (layer "B.Fab")
+    (fp_text value "1uF 16V" (at 0 -2.032) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e73f930f-9208-434a-b038-3df8c2c44781)
     )
@@ -9199,7 +9199,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1631d4cd-ddff-4833-974d-2f20bbe1d94e)
     )
-    (fp_text value "100nF" (at 0 -1.85) (layer "B.Fab")
+    (fp_text value "100nF" (at 0 -1.85) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2cb06e5f-2c2b-43a7-baff-d6463091c54a)
     )
