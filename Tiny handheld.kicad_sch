@@ -2865,7 +2865,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 57.15 104.775 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 340146ae-1dcd-4cc9-b1a4-794b73097a69)
-    (property "Reference" "5V" (id 0) (at 59.69 100.2029 0)
+    (property "Reference" "5V1" (id 0) (at 59.69 100.2029 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5V" (id 1) (at 59.69 102.235 0)
@@ -2948,7 +2948,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 43.815 137.16 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 42350c44-064d-4037-affd-69bc19043671)
-    (property "Reference" "GND" (id 0) (at 45.72 139.1919 0)
+    (property "Reference" "GND1" (id 0) (at 45.72 139.1919 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "GND" (id 1) (at 45.72 141.7319 0)
@@ -3427,7 +3427,7 @@
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 140.335 122.555 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bc823d2e-cd93-4e16-8824-0c0bbb02b3b1)
-    (property "Reference" "en-charge" (id 0) (at 140.335 115.57 0))
+    (property "Reference" "en-charge1" (id 0) (at 140.335 115.57 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 140.335 118.11 0))
     (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (id 2) (at 140.335 122.555 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3782,7 +3782,7 @@
       (reference "#PWR0114") (unit 1) (value "GNDPWR") (footprint "")
     )
     (path "/340146ae-1dcd-4cc9-b1a4-794b73097a69"
-      (reference "5V") (unit 1) (value "5V") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
+      (reference "5V1") (unit 1) (value "5V") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/d87d81d6-a9f7-455a-b1d8-8ff0988a0a64"
       (reference "BT1") (unit 1) (value "BATTERY-6.8MM_SMD") (footprint "Battery:BatteryHolder_Keystone_3002_1x2032")
@@ -3809,7 +3809,7 @@
       (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/42350c44-064d-4037-affd-69bc19043671"
-      (reference "GND") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
+      (reference "GND1") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/a18d266d-c0d2-4b00-9a60-ec95f250657b"
       (reference "IC1") (unit 1) (value "BQ21040DBVR") (footprint "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
@@ -3902,7 +3902,7 @@
       (reference "U2") (unit 1) (value "ATtiny85-20S") (footprint "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm")
     )
     (path "/bc823d2e-cd93-4e16-8824-0c0bbb02b3b1"
-      (reference "en-charge") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
+      (reference "en-charge1") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
   )
 )
