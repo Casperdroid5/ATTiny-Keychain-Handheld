@@ -6,8 +6,8 @@
 
   (title_block
     (title "Tiny Handheld keychain ")
-    (date "2022-09-16")
-    (rev "2.0")
+    (date "2022-11-21")
+    (rev "2.1")
     (comment 2 "Heavely inspired by Yevgeniy Olexandrenko's design")
     (comment 3 "Designed by Casper R. Tak")
   )
@@ -2836,12 +2836,12 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Purpose" "Joystick" (id 5) (at 34.29 73.66 0))
-    (pin "UP" (uuid b72cac50-c405-4361-87af-249d56d6b249))
-    (pin "RIGHT" (uuid 93af74f7-8fb9-480e-a6b3-905333723302))
-    (pin "LEFT" (uuid c33418c2-5fcb-43a8-bf52-912978cda217))
     (pin "CTR" (uuid 18a09326-0ec8-4a02-886a-de7e77424870))
     (pin "DOWN" (uuid 10f3bf7d-9e88-4782-9013-91a6fffa69e9))
     (pin "GND" (uuid 8f56e021-24d2-4c8a-be2a-cfb9f59ed5e8))
+    (pin "LEFT" (uuid c33418c2-5fcb-43a8-bf52-912978cda217))
+    (pin "RIGHT" (uuid 93af74f7-8fb9-480e-a6b3-905333723302))
+    (pin "UP" (uuid b72cac50-c405-4361-87af-249d56d6b249))
   )
 
   (symbol (lib_id "Device:R") (at 18.415 118.11 180) (unit 1)
