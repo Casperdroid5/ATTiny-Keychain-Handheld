@@ -7,8 +7,8 @@
   (paper "A5")
   (title_block
     (title "Tiny Handheld")
-    (date "2022-11-21")
-    (rev "2.1")
+    (date "2022-12-04")
+    (rev "2.2")
     (comment 1 "Casper R. Tak")
   )
 
@@ -10508,6 +10508,9 @@
   )
   (gr_text "←" (at 89.408 70.358) (layer "F.SilkS") (tstamp 7326a1b7-bddb-476b-826a-52f91c02070a)
     (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (gr_text "TO DO:\nfix silkscreen error on com port (MISO / MOSI)" (at 164 36.25) (layer "F.SilkS") (tstamp 781037b9-fb7a-4d30-ab65-ca8b0a4f895d)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "←" (at 100.203 70.612 180) (layer "F.SilkS") (tstamp acd5b492-6f3b-4fed-9e3c-3d3e74083226)
     (effects (font (size 1.5 1.5) (thickness 0.2)))
