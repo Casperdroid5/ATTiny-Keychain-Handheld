@@ -2437,7 +2437,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 60e3c87d-b7e9-44a3-8a0e-3e060a42fd49)
   )
-  (text "For portrait display orientation:\n1. Solder JX to JUD position\n2. Solder JY to JLR position\n3. Swap resistors R1 (88k) and R3 (33k)"
+  (text "For portrait display orientation:\n1. Solder JX to JUD position\n2. SOlder JY to JLR position\n3. Swap resistors R1 (88k) and R3 (33k)"
     (at 62.865 55.88 0)
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 7115ccb0-4d51-4f2c-9ecb-893e2a795e44)
