@@ -24,7 +24,7 @@ To use the ATTiny Keychain Handheld, follow these steps:
 
 ## Documentation
 
-Detailed documentation and guides on how to build and customize the handheld device can be found in the [Documentation](https://github.com/Casperdroid5/ATTiny-Keychain-Handheld/tree/main/Documentation) directory of the project repository. The documentation includes step-by-step instructions, component lists, and circuit diagrams.
+Detailed documentation and guides on how to build and customize the handheld device can be found in the [Documentation](https://github.com/Casperdroid5/ATTiny-Keychain-Handheld/tree/main/Documentation) directory of the project repository. The documentation includes component lists, PCB design and circuit diagrams.
 
 ## Contributing
 
